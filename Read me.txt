@@ -1,0 +1,6 @@
+course code:CSE-2340
+course name: software development
+name: Mohammed
+id: C243133
+section: 3DM
+semester: 3RD
